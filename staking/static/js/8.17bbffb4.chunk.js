@@ -1,1 +1,0 @@
-(this["webpackJsonpstaking-ui"]=this["webpackJsonpstaking-ui"]||[]).push([[8],{1010:function(n,i){},1012:function(n,i){},1040:function(n,i){},1058:function(n,i){},1060:function(n,i){},963:function(n,i){}}]);
