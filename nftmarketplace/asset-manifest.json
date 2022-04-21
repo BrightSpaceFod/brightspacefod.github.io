@@ -3,12 +3,12 @@
     "static/js/0.f426f492.chunk.js": "/nftmarketplace/static/js/0.f426f492.chunk.js",
     "static/js/1.7d1680ae.chunk.js": "/nftmarketplace/static/js/1.7d1680ae.chunk.js",
     "main.css": "/nftmarketplace/static/css/main.f78c44f4.chunk.css",
-    "main.js": "/nftmarketplace/static/js/main.badfeb1c.chunk.js",
-    "runtime-main.js": "/nftmarketplace/static/js/runtime-main.aee6085a.js",
+    "main.js": "/nftmarketplace/static/js/main.1ef9de0e.chunk.js",
+    "runtime-main.js": "/nftmarketplace/static/js/runtime-main.1693662a.js",
     "static/css/4.0b51b538.chunk.css": "/nftmarketplace/static/css/4.0b51b538.chunk.css",
-    "static/js/4.481ee201.chunk.js": "/nftmarketplace/static/js/4.481ee201.chunk.js",
+    "static/js/4.6b7da3be.chunk.js": "/nftmarketplace/static/js/4.6b7da3be.chunk.js",
     "static/js/5.693e795f.chunk.js": "/nftmarketplace/static/js/5.693e795f.chunk.js",
-    "static/js/6.c097c2c8.chunk.js": "/nftmarketplace/static/js/6.c097c2c8.chunk.js",
+    "static/js/6.ca36b3b6.chunk.js": "/nftmarketplace/static/js/6.ca36b3b6.chunk.js",
     "static/js/7.295ae14c.chunk.js": "/nftmarketplace/static/js/7.295ae14c.chunk.js",
     "static/js/8.e871d71a.chunk.js": "/nftmarketplace/static/js/8.e871d71a.chunk.js",
     "static/js/9.06ddc94a.chunk.js": "/nftmarketplace/static/js/9.06ddc94a.chunk.js",
@@ -40,9 +40,9 @@
     "static/js/34.4d673aa6.chunk.js": "/nftmarketplace/static/js/34.4d673aa6.chunk.js",
     "index.html": "/nftmarketplace/index.html",
     "static/js/15.f52a4c82.chunk.js.LICENSE.txt": "/nftmarketplace/static/js/15.f52a4c82.chunk.js.LICENSE.txt",
-    "static/js/4.481ee201.chunk.js.LICENSE.txt": "/nftmarketplace/static/js/4.481ee201.chunk.js.LICENSE.txt",
+    "static/js/4.6b7da3be.chunk.js.LICENSE.txt": "/nftmarketplace/static/js/4.6b7da3be.chunk.js.LICENSE.txt",
     "static/js/5.693e795f.chunk.js.LICENSE.txt": "/nftmarketplace/static/js/5.693e795f.chunk.js.LICENSE.txt",
-    "static/js/6.c097c2c8.chunk.js.LICENSE.txt": "/nftmarketplace/static/js/6.c097c2c8.chunk.js.LICENSE.txt",
+    "static/js/6.ca36b3b6.chunk.js.LICENSE.txt": "/nftmarketplace/static/js/6.ca36b3b6.chunk.js.LICENSE.txt",
     "static/js/7.295ae14c.chunk.js.LICENSE.txt": "/nftmarketplace/static/js/7.295ae14c.chunk.js.LICENSE.txt",
     "static/media/inter.css": "/nftmarketplace/static/media/Inter.var.9df5db38.woff2",
     "static/media/arrow-right.b7ff963b.svg": "/nftmarketplace/static/media/arrow-right.b7ff963b.svg",
@@ -84,10 +84,10 @@
     "static/media/xl_uni.9c9e061b.png": "/nftmarketplace/static/media/xl_uni.9c9e061b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.aee6085a.js",
+    "static/js/runtime-main.1693662a.js",
     "static/css/4.0b51b538.chunk.css",
-    "static/js/4.481ee201.chunk.js",
+    "static/js/4.6b7da3be.chunk.js",
     "static/css/main.f78c44f4.chunk.css",
-    "static/js/main.badfeb1c.chunk.js"
+    "static/js/main.1ef9de0e.chunk.js"
   ]
 }
