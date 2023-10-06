@@ -1,6 +1,6 @@
 ## Welcome to Bright Space
 
-### Cryptocurrency / Blockchain Engineer
+### Cryptocurrency / Blockchain / AI / AKP / Game Engineer
 
-I'm a junior Cryptocurrency Engineer. I'll always be ready with you.
+I'll always be ready with you.
 
